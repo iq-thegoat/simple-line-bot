@@ -1,0 +1,14 @@
+aiohttp
+aiosignal
+attrs
+discord
+discord.py
+frozenlist
+idna
+loguru
+multidict
+pip
+python-dotenv
+setuptools
+wheel
+yarl
